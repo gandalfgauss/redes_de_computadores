@@ -1,0 +1,19 @@
+//Modelo de arquivo de testes. 
+//Implemente seu programa de forma que seja desconsiderado 
+//nesse arquivo quaisquer linhas que iniciem com "//". Isso é comentário
+
+//Número de operações a serem lidas
+10
+//imediatamente as operações deverão ser lidas. Cada entrada deverá ser inserida em uma linha distinta. 
+//Duas entradas em uma única linha serão consideradas como entrada única. Isso pode provocar um erro.
+
+abcaa1111111111111111111111111bbbbbbbbbbbbbbcccccccccccccccaaaaaa
+j°k3a4232222225555555555555555555555555555555555555555
+d23eea144445vvvvvvvvvfdddd----------------8
+*-?
+3
+a
+b
+c
+*&¨%$##%¨&&&***A
+*&¨%$##%¨&&&****&¨%$##%¨&&&****&¨%$##%¨&&&****&¨%$##%¨&&&***
